@@ -17,5 +17,5 @@ Hal tersebut dapat diperoleh melalui x3=(x1+x2)/2
 	c. jika f(x1)*f(x3)<0, maka x3=x2 dan kembali menghitung perkiraan akar baru
 5. Jika nilai yang didapat sesuai dengan batasan yang ditetnukan, maka proses selesai dan x3 adalah akar persamaan yang dicari
 
-![Screenshot (624)](https://user-images.githubusercontent.com/90541607/198071131-a376ea84-2e25-4960-a949-3a0289d26e21.png)
-![Screenshot (625)](https://user-images.githubusercontent.com/90541607/198071208-ac335229-80e7-4bbb-864f-11da2ff09933.png)
+![Screenshot (626)](https://user-images.githubusercontent.com/90541607/198072278-72dc4514-35f9-45c4-88b3-00511b4a5cb7.png)
+![Screenshot (627)](https://user-images.githubusercontent.com/90541607/198072311-3a46ecd5-7e39-48a5-b23d-a085306b1737.png)
